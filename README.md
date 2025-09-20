@@ -37,8 +37,9 @@ README.md
 ```bash
 npm install
 npm start
-Frontend will run on: http://localhost:3000
 ```
+Frontend will run on: http://localhost:3000
+
 ## Docker
 
 ```docker
