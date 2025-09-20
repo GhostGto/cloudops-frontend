@@ -23,12 +23,12 @@ It connects to the backend API and is served via **Nginx** inside Docker.
 
 ## Project Structure
 
-src/ # React source code
-public/ # HTML template
-Dockerfile
-package.json
-.github/workflows/ci-cd-frontend.yml
-README.md
+- src/ # React source code
+- public/ # HTML template
+- Dockerfile
+- package.json
+- .github/workflows/ci-cd-frontend.yml
+- README.md
 
 
 ---
